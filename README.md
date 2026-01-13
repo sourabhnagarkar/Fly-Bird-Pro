@@ -82,6 +82,19 @@ gcc src/main.c -o flybird \
     Using Git & GitHub for version control
 
 
+    ## 📸 Screenshots
+
+### 🏠 Main Menu
+![Main Menu](screenshots/menu.jpeg)
+
+### 🎮 Gameplay
+![Gameplay](screenshots/gameplay.jpeg)
+
+### 💀 Game Over
+![Game Over](screenshots/gameover.jpeg)
+
+
+
 👤 Author
     Sourabh Nagarkar
     📌 Computer Science Student
