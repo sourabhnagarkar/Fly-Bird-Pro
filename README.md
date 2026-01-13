@@ -54,27 +54,7 @@ Version Control	            Git & GitHub
 Platform	                Windows / Linux
 
 
-📂 Project Structure
-FlyBird/
-├── src/
-│   └── main.c
-│
-├── assets/
-│   ├── bg_far.png
-│   ├── bg_near.png
-│   ├── bird.png
-│   ├── pipe.png
-│   ├── font.ttf
-│   ├── jump.wav
-│   ├── hover.wav
-│   ├── click.wav
-│   └── gameover.wav
-│
-├── .gitignore
-├── README.md
-
-
-    ▶️ How to Build & Run
+▶️ How to Build & Run
 🔹 Windows (MinGW)
 
 gcc src/main.c -o flybird ^
@@ -91,14 +71,6 @@ gcc src/main.c -o flybird \
 -lSDL2 -lSDL2_image -lSDL2_ttf -lSDL2_mixer
 ./flybird
 
-
-📸 Screenshots
-(Add gameplay screenshots here)
-Example:
-    screenshots/
-    ├── menu.png
-    ├── gameplay.png
-    ├── gameover.png
 
 
 🧠 What I Learned From This Project
